@@ -1,4 +1,5 @@
 #  Professional README Generator
+
 A command line application that runs in Node.js that generates a professional README.md from a user's input using the Inquirer package. 
 
 ## Description
@@ -43,27 +44,10 @@ To generate your own README:
 
 ## Visuals
 
+./readme-generator/images/visual1.png
 
-add image of readme created
-
-video of working
-
+./readme-generator/images/visual2.png
 
 
 
-
-
-
-
-
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
-
-
-
-
-
-* Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
