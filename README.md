@@ -1,34 +1,21 @@
-# 09 Node.js Challenge: Professional README Generator
+#  Professional README Generator
+A command line application that runs in Node.js that generates a professional README.md from a user's input using the Inquirer package. 
 
-## Your Task
+## Description
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.  This project quickly and easily creates a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
-
-Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). Review the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) as a reminder of everything that a high-quality, professional README should contain. 
-
-The application will be invoked by using the following command:
-
-```bash
-node index.js
-```
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
-
+Take a look at the ExampleREADME.md in this repo.
 
 ## User Story
 
-```md
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-```
 
 ## Acceptance Criteria
 
-```md
-GIVEN a command-line application that accepts user input
+IVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 WHEN I enter my project title
@@ -43,34 +30,40 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-```
 
-## Getting Started
+## Installation
 
-Here are some guidelines to help you get started:
+To generate your own README:
+ -git clone repo
+ -run npm install to install the following npm package dependency:
+	[Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4)
+-This will start by running node index.js in the command line.
+-Answer the questions that are prompted to generate the README.
+-Once created, your README file will be named 'Example README'
 
-* Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+## Visuals
 
-* Make sure that your repo includes a `package.json` with the required dependencies. You can create one by running `npm init` when you first set up the project, before installing any dependencies.
+add image in terminal 
+add image of readme created
 
-* Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
+video of working
+
+
+
+
+
+
+
+
+
+
+Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer. You’ll need to submit a link to the video _and_ add it to the README of your project.
+
+
+
+
 
 * Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
 
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers or other developers in the future what you built and why, and to show how it works.
 
-
-
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4).
-
-
-
-
-
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
