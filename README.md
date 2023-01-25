@@ -43,7 +43,7 @@ To generate your own README:
 
 ## Visuals
 
-add image in terminal 
+
 add image of readme created
 
 video of working
