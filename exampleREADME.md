@@ -1,4 +1,4 @@
-# Example of a README generator
+# exampleReadme
   
   ## License: MIT ![license: MIT](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ### https://choosealicense.com/licenses/mit/
@@ -13,20 +13,20 @@
   
   ## Installation:
   ### In order for this app to function, intall the following:
-  ### To use this generator, the Inquirer package is needed.
+  ### Instructions are listed in README
   
   ## Usage:
-  ### running node index.js
+  ### usage information can also be found in the README
 
   ## Contribution:
   ### undefined
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
-  ### no tests were used
+  ### none
 
   ## Questions:
   ### If you have any questions, please contact me at:
-  ### GitHub: https://github.com/GH username
+  ### GitHub: https://github.com/GHusername
   ### or, you can reach me through email:
   ### E-mail: email@email

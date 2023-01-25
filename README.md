@@ -44,9 +44,9 @@ To generate your own README:
 
 ## Visuals
 
-./readme-generator/images/visual1.png
+https://drive.google.com/file/d/1bJu20vJ_Ly3APu4Ov6qJM7W-grqoPtd4/view?usp=sharing
 
-./readme-generator/images/visual2.png
+
 
 
 
